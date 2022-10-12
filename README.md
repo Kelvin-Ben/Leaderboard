@@ -38,7 +38,7 @@ To get a local copy up and running follow these simple example steps.
 ### Setup
     -using git command line
       if you are using the git command line, please use this command in your terminal
-        git@github.com:Kelvin-Ben/To-Do-list.git
+        git@github.com:Kelvin-Ben/Leaderboard.git
     -using the GitHub Desktop
       if you are using the desktop version of github, please  click on the green "code" button and click on "Open with GitHub Desktop" 
 
