@@ -3,10 +3,8 @@
 # Leaderboard
 
 ### In this activity you will set up
-- A JavaScript project for the Leaderboard list app, using webpack and ES6 features, notably modules.
-- A first working version of the app following a wireframe, but without styling- just focus on functionality.
-- I will consume the Leaderboard API using JavaScript async and await without adding much styling.
-
+- I will finalize the Leaderboard list app by adding the styles needed to make it look great.
+- I will use plain CSS
 ## Built With
 
 - HTML
@@ -17,24 +15,22 @@
 - Linters
 - ES6
 - npm
+- API
+- JSON
 
 ## Live Demo (if available)
 
 [Live Demo Link](https://www.linkedin.com/in/kelvin-ben-323043173/)
 
 
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
 
 ## Getting Started
-To get a local copy up and running follow these simple example steps.
 
-**This is the Awesome books: with ES6 Modules: plain JavaScript with classes**
+- Run git clone <git@github.com:Kelvin-Ben/Leaderboard.git>
+- Run cd <Leaderboard>
+- Run npm install
+- Run npm start
+
 
 ### Prerequisites
     Web Browser (e.g. Firefox, Google Chrome, Edge)
@@ -42,16 +38,13 @@ To get a local copy up and running follow these simple example steps.
 ### Setup
     -using git command line
       if you are using the git command line, please use this command in your terminal
-        git@github.com:Kelvin-Ben/Leaderboard.git
+        (git@github.com:Kelvin-Ben/Leaderboard.git)
     -using the GitHub Desktop
       if you are using the desktop version of github, please  click on the green "code" button and click on "Open with GitHub Desktop" 
 
 
 ### Install
     Install the linters in your local environment to mantain your code clean 
-
-
-
 
 ## Authors
 
@@ -75,8 +68,9 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Inspiration to (https://www.notion.so/microverse/Leaderboard-API-service-24c0c3c116974ac49488d4eb0267ade3)
+
+
 
 ## 📝 License
 
