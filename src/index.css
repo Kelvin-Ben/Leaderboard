@@ -2,6 +2,7 @@ body {
   font-family: 'Poppins', sans-serif;
   margin: 0;
   padding: 0;
+  background-color: #cdf7f6;
 }
 
 .main {
@@ -22,7 +23,9 @@ h2 {
   flex-direction: column;
   align-items: center;
 }
-
+.title {
+  text-shadow: 2px 2px 4px #000000;
+}
 .title-container {
   width: 100%;
 }
@@ -77,12 +80,30 @@ li {
 button {
   border: 2px solid #000;
   background-color: #fff;
-  box-shadow: 2px 2px 2px 2px #000;
+  box-shadow: 2px 2px 2px 2px #8fb8de;
   width: 5em;
   height: 2em;
 }
 
 button:hover {
   cursor: pointer;
-  background-color: #ddd;
+  background-color: #8fb8de;
+}
+.refresh-button:hover {
+  color: #fff;
+}
+.submit-button:hover {
+color: #fff;
+}
+/* make a footer to show the owner */
+footer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 2rem;
+  height: auto;
+  width: 100%;
+  margin: 0 auto;
+  /* margin: 0 auto; */
 }
