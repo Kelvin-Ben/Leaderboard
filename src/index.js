@@ -1,22 +1,26 @@
 import './index.css';
 import populateScores from './modules/populatescores.js';
-import gamescores from './modules/scores.js';
+import createGame from './modules/creategame.js';
+import addScoresToAPI from './modules/Addscores.js';
 
 window.onload = () => {
-  const addScore = document.querySelector('.submit-button');
+  const addscore = document.querySelector('.submit-button');
   const refreshButton = document.querySelector('.refresh-button');
   populateScores();
 
-  addScore.addEventListener('click', (e) => {
-    e.preventDefault();
+  if (!localStorage.getItem('storedgame')) {
+    createGame();
+  }
+  addscore.addEventListener('click', (e) => {
     const playerName = document.querySelector('.player-name');
-    const theScore = document.querySelector('.player-score');
-    gamescores.POST(playerName.value, theScore.value);
-    populateScores();
+    const thescore = document.querySelector('.player-score');
+    const gameId = localStorage.getItem('storedgame');
+    addScoresToAPI(playerName.value, thescore.value, gameId);
+    e.preventDefault();
   });
 
   refreshButton.addEventListener('click', (e) => {
-    e.preventDefault();
     populateScores();
+    e.preventDefault();
   });
 };

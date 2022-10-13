@@ -5,7 +5,7 @@
 ### In this activity you will set up
 - A JavaScript project for the Leaderboard list app, using webpack and ES6 features, notably modules.
 - A first working version of the app following a wireframe, but without styling- just focus on functionality.
-- Then later:- I will consume the Leaderboard API using JavaScript async and await and add some styling.
+- I will consume the Leaderboard API using JavaScript async and await without adding much styling.
 
 ## Built With
 
@@ -13,6 +13,10 @@
 - CSS
 - JavaScript
 - Webpack
+- JSON
+- Linters
+- ES6
+- npm
 
 ## Live Demo (if available)
 
