@@ -3,10 +3,8 @@
 # Leaderboard
 
 ### In this activity you will set up
-- A JavaScript project for the Leaderboard list app, using webpack and ES6 features, notably modules.
-- A first working version of the app following a wireframe, but without styling- just focus on functionality.
-- I will consume the Leaderboard API using JavaScript async and await without adding much styling.
-
+_- I will finalize the Leaderboard list app by adding the styles needed to make it look great.
+- I will use plain CSS
 ## Built With
 
 - HTML
@@ -17,6 +15,8 @@
 - Linters
 - ES6
 - npm
+- API
+- JSON
 
 ## Live Demo (if available)
 
