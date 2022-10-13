@@ -3,7 +3,7 @@
 # Leaderboard
 
 ### In this activity you will set up
-_- I will finalize the Leaderboard list app by adding the styles needed to make it look great.
+- I will finalize the Leaderboard list app by adding the styles needed to make it look great.
 - I will use plain CSS
 ## Built With
 
@@ -23,18 +23,14 @@ _- I will finalize the Leaderboard list app by adding the styles needed to make 
 [Live Demo Link](https://www.linkedin.com/in/kelvin-ben-323043173/)
 
 
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
 
 ## Getting Started
-To get a local copy up and running follow these simple example steps.
 
-**This is the Awesome books: with ES6 Modules: plain JavaScript with classes**
+- Run git clone <git@github.com:Kelvin-Ben/Leaderboard.git>
+- Run cd <Leaderboard>
+- Run npm install
+- Run npm start
+
 
 ### Prerequisites
     Web Browser (e.g. Firefox, Google Chrome, Edge)
@@ -42,16 +38,13 @@ To get a local copy up and running follow these simple example steps.
 ### Setup
     -using git command line
       if you are using the git command line, please use this command in your terminal
-        git@github.com:Kelvin-Ben/Leaderboard.git
+        (git@github.com:Kelvin-Ben/Leaderboard.git)
     -using the GitHub Desktop
       if you are using the desktop version of github, please  click on the green "code" button and click on "Open with GitHub Desktop" 
 
 
 ### Install
     Install the linters in your local environment to mantain your code clean 
-
-
-
 
 ## Authors
 
