@@ -16,6 +16,8 @@ window.onload = () => {
     const thescore = document.querySelector('.player-score');
     const gameId = localStorage.getItem('storedgame');
     addScoresToAPI(playerName.value, thescore.value, gameId);
+    playerName.value = '';
+    thescore.value = '';
     e.preventDefault();
   });
 
