@@ -23,7 +23,7 @@ To view click [here](https://fastidious-quokka-20f996.netlify.app/)
 
 ## Getting Started
 
-- Run git clone <git@github.com:Kelvin-Ben/Leaderboard.git>
+- Run git clone $ git@github.com:Kelvin-Ben/Leaderboard.git
 - Run cd <Leaderboard>
 - Run npm install
 - Run npm start
@@ -56,7 +56,7 @@ To view click [here](https://fastidious-quokka-20f996.netlify.app/)
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/Kelvin-Ben/Leaderboard/issues).
 
 ## Show your support
 
