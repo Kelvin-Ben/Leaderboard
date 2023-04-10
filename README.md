@@ -45,7 +45,7 @@ To view click [here](https://fastidious-quokka-20f996.netlify.app/)
 
 ## Authors
 
-👤 ## Kelvin Benjamin
+## 👤 Kelvin Benjamin
 
 - GitHub: [@Kelvin-Ben](https://github.com/Kelvin-Ben)
 - Twitter: [@Kevoyout144](https://twitter.com/kevoyout144)
