@@ -1,10 +1,7 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
 # Leaderboard
 
-### In this activity you will set up
-- I will finalize the Leaderboard list app by adding the styles needed to make it look great.
-- I will use plain CSS
+The leaderboard project is a dynamic web application that allows users to add and view scores of players in a game. Built using HTML, CSS, and JavaScript, and bundled with Webpack, the application stores data in the browser with JSON. It features an API that retrieves player data and displays it in real-time. The use of ES6 and linters ensures maintainable and clean code, while npm enables easy package management. The leaderboard project is a demonstration of proficiency in web development technologies, showcasing knowledge in HTML, CSS, JavaScript, JSON, API, and Webpack.
+
 ## Built With
 
 - HTML
@@ -18,9 +15,9 @@
 - API
 - JSON
 
-## Live Demo (if available)
+## Live Demo
 
-[Live Demo Link](https://www.linkedin.com/in/kelvin-ben-323043173/)
+To view click [here](https://fastidious-quokka-20f996.netlify.app/)
 
 
 
@@ -67,11 +64,11 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
+- Hat tip to Microverse for the opportunity.
 - Inspiration to (https://www.notion.so/microverse/Leaderboard-API-service-24c0c3c116974ac49488d4eb0267ade3)
 
 
 
 ## 📝 License
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](https://mit-license.org/) licensed.
