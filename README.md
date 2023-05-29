@@ -16,7 +16,7 @@
 
 - HTML
 - CSS
-- JavaScript(ES^)
+- JavaScript(ES6)
 - Webpack
 
 ### Live Demo
